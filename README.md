@@ -1,2 +1,2 @@
-# python_tutorials
-Collection of mini-tutorials of using Python
+# Python Tutorials
+This is a collection of Python mini-tutorials for personal practice.
